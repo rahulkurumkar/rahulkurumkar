@@ -2,7 +2,7 @@
 
 ## I'm a Front End Developer!
 - 🔭 I’m currently working on a React JS!
-- 🌱 I’m currently learning VueJS 🤣
+- 🌱 I’m currently learning VueJS
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play tennis / badminton
 
