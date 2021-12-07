@@ -1,4 +1,11 @@
 ### Hi there, I'm Rahul 👋
+Versatile Front-End Developer with 11+ years of experience designing, developing, and managing complex products. Specializes in Javascript, ReactJs, Angular, Vue, Redux, and ExtJs.
+
+Currently leading the core UI team at Atheer Inc and am responsible for all customer-facing product UIs as well as the architecture of a new front-end stack based on ReactJS and Redux.
+
+I am familiar with JavaScript and libraries such as ReactJS/Redux, jQuery, and Sencha ExtJS. Proficient with ES6/7+, Webpack, Babel, and the NPM, Docker ecosystem.
+
+Specialties: JavaScript, ReactJS, VueJs, Angular, Redux, Ext JS, Front-End Dev, web services (REST, SOAP), Microservice, Docker ecosystem.
 
 ## I'm a Front End Developer!
 - 🔭 I’m currently working on a React JS!
